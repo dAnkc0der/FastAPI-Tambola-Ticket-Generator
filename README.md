@@ -1,4 +1,4 @@
-# Submission-Onito
+# FastAPI-Tambola-Ticket-Generator
 
 1. Clone this repository, navigate to this repository, create a virtual environment, and activate the virtual environment and finally install libraries from requirements.txt file
    
